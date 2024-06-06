@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @everythingapplejj
+- 👋 Hi, I’m JJ! 
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Self Driving Cars, and Quantum Computers
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on ML Research
