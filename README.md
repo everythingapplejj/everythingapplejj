@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JJ! 
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Self Driving Cars, and Quantum Computers
+- 👀 I’m interested in Machine Learning, Artificial Intelligence, Operating Systems, Cybersecurity, Self Driving Cars, and Quantum Computers
 - 🌱 I’m currently learning Computer Engineering @ UIUC
 - 💞️ I’m looking to collaborate on ML Research
 
