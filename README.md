@@ -10,10 +10,8 @@ I build at the intersection of **AI + Systems + Real World Impact**
 
 ## ⚡ Focus Areas
 - Machine Learning & Artificial Intelligence  
-- Operating Systems & Systems Programming  
-- Cybersecurity  
-- Autonomous Systems (Self-Driving)  
-- Quantum Computing  
+- Operating Systems & Systems Programming
+- Product Development
 
 ---
 
