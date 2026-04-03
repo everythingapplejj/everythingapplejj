@@ -1,7 +1,9 @@
 # 👋 Hi, I’m JJ
 
 🚀 Chief Agentic Officer @ FixAiFlow 
+
 🎓 Computer Engineering @ University of Illinois Urbana-Champaign  
+
 🧑‍🏫 Teaching Assistant @ ECE 391 (Operating Systems)  
 
 I build at the intersection of **AI + Systems + Real World Impact**
