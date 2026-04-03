@@ -1,6 +1,6 @@
 # 👋 Hi, I’m JJ
 
-🚀 CTO @ Stealth Startup  
+🚀 Chief Agentic Officer @ FixAiFlow
 🎓 Computer Engineering @ University of Illinois Urbana-Champaign  
 🧑‍🏫 Teaching Assistant @ ECE 391 (Operating Systems)  
 
