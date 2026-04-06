@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=everythingapplejj&label=Profile%20Views&color=brightgreen&style=flat)
 # 👋 Hi, I’m JJ
 
 🚀 Chief Agentic Officer @ FixAiFlow 
