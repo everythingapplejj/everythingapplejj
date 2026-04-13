@@ -66,7 +66,7 @@ I build at the intersection of **AI + Systems + Real World Impact**
 ![GitHub Streak](https://streak-stats.demolab.com?user=everythingapplejj&theme=dark&hide_border=true)
 
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/everythingapplejj/svg)](https://tokscale.ai/u/everythingapplejj)
+[![Tokscale Stats](https://tokscale.ai/api/embed/everythingapplejj/svg?view=3d)](https://tokscale.ai/u/everythingapplejj)
 
 
 
