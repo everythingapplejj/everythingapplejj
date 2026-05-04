@@ -1,4 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=everythingapplejj&label=Profile%20Views&color=brightgreen&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiwoong3/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@everythingapplejj6723)
+
 # 👋 Hi, I’m JJ
 
 🚀 Chief Agentic Officer @ FixAiFlow 
