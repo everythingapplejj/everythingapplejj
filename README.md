@@ -1,127 +1,262 @@
+
 <div align="center">
 
-# Hi, I'm JJ 👋
+<h1>👋 Hey, I'm JJ!</h1>
 
-**Computer engineer and AI researcher building at the intersection of AI, systems, and real-world products.**
+<h3>Computer Engineer · AI Researcher · Startup Builder</h3>
 
-<a href="https://www.linkedin.com/in/jiwoong3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.youtube.com/@everythingapplejj6723"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://labelverify.net"><img src="https://img.shields.io/badge/LabelVerify-16A085?style=flat-square&logoColor=white" alt="LabelVerify"/></a>
-<img src="https://komarev.com/ghpvc/?username=everythingapplejj&label=Views&color=555555&style=flat-square" alt="Profile views"/>
+<p>
+  <b>Building at the intersection of AI, Systems, and Real-World Impact.</b>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/jiwoong3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@everythingapplejj6723">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+<img
+  src="https://komarev.com/ghpvc/?username=everythingapplejj&label=Profile%20Views&color=brightgreen&style=flat"
+  alt="Profile Views"
+/>
 
 </div>
 
-<br/>
+---
 
-## About me
+## 🚀 About Me
 
-I'm **Jiwoong Jung**, and I like working across the whole stack, from operating systems and hardware up to AI-powered products.
+I'm **Jiwoong Jung (JJ)**, a Computer Engineer passionate about building intelligent systems, exploring cutting-edge research, and turning ambitious ideas into real-world products.
 
-| | |
-|---|---|
-| 🚀 **Chief Agentic Officer** | [FixAiFlow](https://labelverify.net) — building AI-native software and agentic workflows |
-| 🎓 **M.S. Electrical & Computer Engineering** | University of Illinois Urbana-Champaign |
-| 🧑‍🏫 **Teaching Assistant** | ECE 391 — Operating Systems |
+- 🚀 **Chief Agentic Officer** @ FixAiFlow
+- 🎓 **M.S. Electrical & Computer Engineering** @ University of Illinois Urbana-Champaign
+- 🧑‍🏫 **Teaching Assistant** @ ECE 391 — Operating Systems
+- 🧠 Interested in **Machine Learning, AI Agents, Systems, and Security**
+- ⚡ Passionate about **Low-Level Programming, Blockchain, and Hardware Optimization**
 
-<br/>
+I enjoy working across the entire technology stack — from operating systems and hardware to AI-powered applications and scalable products.
 
-## What I'm working on
+---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 AI products</h4>
-      <ul>
-        <li>Agentic workflows and intelligent automation at FixAiFlow</li>
-        <li><a href="https://labelverify.net">LabelVerify</a>: AI-assisted packaging artwork verification</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 AI and systems research</h4>
-      <ul>
-        <li>Agentic AI and autonomous software engineering</li>
-        <li>Security and robustness of AI systems</li>
-        <li>GPU computing and efficient inference</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ Systems engineering</h4>
-      <ul>
-        <li>RISC-V architecture and operating systems</li>
-        <li>Memory management, concurrency, device drivers</li>
-        <li>Performance optimization</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⛏️ Blockchain and hardware</h4>
-      <ul>
-        <li>BTC / BCH solo mining on Bitaxe ASICs</li>
-        <li>Reinforcement learning for energy-efficient mining</li>
-        <li>Blockchain protocols and cryptography</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 🔭 What I'm Working On
 
-<br/>
+### 🚀 AI Products & Startups
 
-## Tech stack
+Building and scaling AI-native software at **FixAiFlow**.
 
-| | |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,java,swift,js" alt="C, C++, Python, Bash, Java, Swift, JavaScript"/> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,angular,spring" alt="PyTorch, TensorFlow, React, Angular, Spring"/> |
-| **Infrastructure** | <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github" alt="Linux, Docker, AWS, Git, GitHub"/> |
+- Developing intelligent automation and AI-driven workflows
+- Building production-ready applications
+- Exploring how agentic systems can solve real-world problems
 
-<br/>
+**Featured Product:** [LabelVerify](https://labelverify.net) — AI-assisted packaging artwork verification.
 
-## Activity
+### 🧠 AI & Systems Research
+
+Exploring the intersection of machine learning, systems, and security.
+
+- Agentic AI and autonomous software engineering
+- Security and robustness of AI systems
+- Machine learning and systems optimization
+- GPU computing and efficient inference
+
+### ⚙️ Systems Engineering
+
+Working with low-level systems, operating systems, and computer architecture.
+
+- RISC-V architecture and operating systems
+- Memory management, concurrency, and synchronization
+- Device drivers and low-level programming
+- Performance optimization and systems infrastructure
+
+### ⛏️ Blockchain & Hardware
+
+Experimenting with blockchain technology and computational hardware.
+
+- Bitcoin and Bitcoin Cash solo mining
+- Bitaxe ASIC mining and hardware optimization
+- Reinforcement learning for energy-efficient mining
+- Blockchain protocols and cryptography
+
+---
+
+## ⚡ Focus Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-0A66C2?style=for-the-badge" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-7B2CBF?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Operating_Systems-2D3748?style=for-the-badge" alt="Operating Systems"/>
+  <img src="https://img.shields.io/badge/Systems_Programming-00599C?style=for-the-badge" alt="Systems Programming"/>
+  <img src="https://img.shields.io/badge/Blockchain-F7931A?style=for-the-badge" alt="Blockchain"/>
+  <img src="https://img.shields.io/badge/Product_Development-16A085?style=for-the-badge" alt="Product Development"/>
+</p>
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" height="45" alt="Swift"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</p>
+
+### 🧠 Frameworks & Libraries
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" alt="Angular"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
+</p>
+
+### ☁️ Software & Infrastructure
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</p>
+
+---
+
+## 📈 Development Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=everythingapplejj&theme=dark&hide_border=true" alt="GitHub contribution streak" width="600"/>
+<h3>🔥 GitHub Contribution Streak</h3>
+
+<img
+  src="https://streak-stats.demolab.com?user=everythingapplejj&theme=dark&hide_border=true"
+  alt="GitHub Contribution Streak"
+  width="650"
+/>
 
 <br/><br/>
 
+<h3>🧊 AI Coding Activity</h3>
+
 <a href="https://tokscale.ai/u/everythingapplejj">
-  <img src="https://tokscale.ai/api/embed/everythingapplejj/svg?view=3d" alt="AI coding activity on Tokscale" width="600"/>
+  <img
+    src="https://tokscale.ai/api/embed/everythingapplejj/svg?view=3d"
+    alt="Tokscale Coding Statistics"
+    width="750"
+  />
 </a>
 
-<sub>AI-assisted coding activity tracked by Tokscale</sub>
+<p>
+  <sub>AI-assisted development activity tracked by Tokscale.</sub>
+</p>
 
 </div>
 
-<br/>
+---
 
-## Solo mining lab
-
-| Coin | Hardware | Mode | Pool |
-|---|---|---|---|
-| ₿ Bitcoin Cash (SHA-256d) | Bitaxe Gamma | Solo | [CWI-theMINE](https://cwi-themine.com/) |
+## ⛏️ Solo Mining Lab
 
 <div align="center">
+
+<h3>₿ Bitcoin Cash · SHA-256d</h3>
+
+<p>
+  <b>Hardware:</b> Bitaxe Gamma
+  <br/>
+  <b>Mining Mode:</b> Solo Mining
+  <br/>
+  <b>Mining Pool:</b>
+  <a href="https://cwi-themine.com/">CWI-theMINE</a>
+</p>
+
+<h3>⚡ Mining Status Dashboard</h3>
 
 <a href="https://cwi-themine.com/solo-bch-sha256d/address/bitcoincash:qrkyk3usu33mnzl0luxs8z5crdlus5p5zscpc27v70">
-  <img src="./assets/cwi-bch-status.png" alt="Bitcoin Cash solo mining status" width="750"/>
+  <img
+    src="./assets/cwi-bch-status.png"
+    alt="Bitcoin Cash Solo Mining Status"
+    width="850"
+  />
 </a>
 
-<sub>
-  Mining status snapshot · Automatically refreshed approximately every 30 minutes
-  <br/>
-  Click the image to view the current CWI-theMINE dashboard.
-</sub>
+<p>
+  <sub>
+    Mining status snapshot · Automatically refreshed approximately every 30 minutes
+    <br/>
+    Click the image to view the current CWI-theMINE dashboard.
+  </sub>
+</p>
+
+<a href="https://cwi-themine.com/solo-bch-sha256d/address/bitcoincash:qrkyk3usu33mnzl0luxs8z5crdlus5p5zscpc27v70">
+  <img
+    src="https://img.shields.io/badge/View_Live_Mining_Stats-00BCD4?style=for-the-badge&logo=bitcoin&logoColor=white"
+    alt="View Live Mining Stats"
+  />
+</a>
 
 </div>
 
-<br/>
+---
 
-## Let's connect
+## 🤝 Let's Collaborate
 
-I'm open to AI research collaborations, startup and product work, systems and low-level projects, and AI security or blockchain research. If you're building something ambitious, [reach out on LinkedIn](https://www.linkedin.com/in/jiwoong3/).
+I'm always interested in connecting with people working on ambitious technical challenges.
+
+**Open to:**
+
+- 🧠 Machine Learning & AI Research Collaboration
+- 🚀 Startup Opportunities & Product Development
+- ⚙️ Systems Engineering & Low-Level Programming
+- 🔐 AI Security & Blockchain Research
+- 🌎 Technology with Real-World Impact
+
+Whether you're building a startup, researching AI, or exploring systems engineering, I'd love to connect.
+
+---
 
 <div align="center">
-<br/>
-<sub><b>Build. Experiment. Learn. Repeat.</b></sub>
+
+<h3>💬 Let's Build Something Interesting</h3>
+
+<a href="https://www.linkedin.com/in/jiwoong3/">
+  <img
+    src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Connect on LinkedIn"
+  />
+</a>
+
+<a href="https://www.youtube.com/@everythingapplejj6723">
+  <img
+    src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+    alt="YouTube"
+  />
+</a>
+
+<br/><br/>
+
+<b>Build. Experiment. Learn. Repeat.</b>
+
 </div>
