@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;height=220&amp;color=0%3A0d1117%2C50%3A155e75%2C100%3A22d3ee&amp;text=JIWOONG+JUNG&amp;fontColor=e6edf3&amp;fontSize=48&amp;fontAlignY=43&amp;desc=AI+%2F+SYSTEMS+%2F+BLOCKCHAIN&amp;descAlignY=65&amp;descSize=16" alt="Jiwoong Jung — AI, systems, and blockchain" width="100%"/>
+<img src="./assets/jj-header.svg" alt="Jiwoong Jung — animated wireframe compute core, AI, systems, and blockchain" width="100%"/>
 
 # Hey, I'm JJ 👋
 
@@ -53,22 +53,65 @@ I like understanding the whole stack — and building across it.
 
 ## Stack
 
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h4>Languages</h4>
-      <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,java,swift,js&amp;theme=dark&amp;perline=4" alt="C, C++, Python, Bash, Java, Swift, JavaScript" width="200"/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>Frameworks</h4>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,angular,spring&amp;theme=dark&amp;perline=4" alt="PyTorch, TensorFlow, React, Angular, Spring" width="200"/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>Infrastructure</h4>
-      <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github&amp;theme=dark&amp;perline=4" alt="Linux, Docker, AWS, Git, GitHub" width="200"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<h3>Languages</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c&amp;theme=dark" alt="C" width="64" height="64"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp&amp;theme=dark" alt="C++" width="64" height="64"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py&amp;theme=dark" alt="Python" width="64" height="64"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash&amp;theme=dark" alt="Bash" width="64" height="64"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java&amp;theme=dark" alt="Java" width="64" height="64"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=swift&amp;theme=dark" alt="Swift" width="64" height="64"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&amp;theme=dark" alt="JavaScript" width="64" height="64"/>
+</p>
+
+<p><sub>C &nbsp; · &nbsp; C++ &nbsp; · &nbsp; Python &nbsp; · &nbsp; Bash &nbsp; · &nbsp; Java &nbsp; · &nbsp; Swift &nbsp; · &nbsp; JavaScript</sub></p>
+
+<br/>
+
+<h3>Frameworks</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch&amp;theme=dark" alt="PyTorch" width="64" height="64"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow&amp;theme=dark" alt="TensorFlow" width="64" height="64"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react&amp;theme=dark" alt="React" width="64" height="64"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=angular&amp;theme=dark" alt="Angular" width="64" height="64"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring&amp;theme=dark" alt="Spring" width="64" height="64"/>
+</p>
+
+<p><sub>PyTorch &nbsp; · &nbsp; TensorFlow &nbsp; · &nbsp; React &nbsp; · &nbsp; Angular &nbsp; · &nbsp; Spring</sub></p>
+
+<br/>
+
+<h3>Infrastructure</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" alt="Linux" width="64" height="64"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" alt="Docker" width="64" height="64"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" alt="AWS" width="64" height="64"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" alt="Git" width="64" height="64"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub" width="64" height="64"/>
+</p>
+
+<p><sub>Linux &nbsp; · &nbsp; Docker &nbsp; · &nbsp; AWS &nbsp; · &nbsp; Git &nbsp; · &nbsp; GitHub</sub></p>
+
+</div>
 
 ## Activity
 
@@ -117,34 +160,17 @@ A view of the networks behind the experiments.
 
 ## Mining lab
 
-**Bitaxe Gamma · Bitcoin Cash · SHA-256d · Solo mining**
-
-Real hardware, real hashes. Exploring proof of work and energy-efficient mining.
-
 <div align="center">
 
-<a href="https://cwi-themine.com/solo-bch-sha256d/address/bitcoincash:qrkyk3usu33mnzl0luxs8z5crdlus5p5zscpc27v70"><img src="https://cwi-themine.com/og/address.png?pool=solo-bch-sha256d&amp;addr=bitcoincash%3Aqrkyk3usu33mnzl0luxs8z5crdlus5p5zscpc27v70" alt="Live BCH solo mining statistics: hashrate, workers, best share, blocks found, mining start, and achievements" width="95%"/></a>
+<p><b>Bitaxe Gamma · BCH · SHA-256d · Solo mining</b></p>
 
-<p>
-  <sub>Pool-reported statistics from <a href="https://cwi-themine.com/solo-bch-sha256d/address/bitcoincash:qrkyk3usu33mnzl0luxs8z5crdlus5p5zscpc27v70">CWI-theMINE</a>.<br/>
-  Click the card to open my mining dashboard. Image caching can delay updates.</sub>
-</p>
+<a href="https://cwi-themine.com/solo-bch-sha256d/address/bitcoincash:qrkyk3usu33mnzl0luxs8z5crdlus5p5zscpc27v70">
+  <img src="https://cwi-themine.com/badge.svg?pool=solo-bch-sha256d&amp;addr=bitcoincash%3Aqrkyk3usu33mnzl0luxs8z5crdlus5p5zscpc27v70" alt="Live BCH mining telemetry: hashrate, workers, best share, blocks, and awards" width="800"/>
+</a>
 
-</div>
-
-<details>
-<summary><b>Compact mining telemetry</b></summary>
-
-<br/>
-<div align="center">
-
-<a href="https://cwi-themine.com/solo-bch-sha256d/address/bitcoincash:qrkyk3usu33mnzl0luxs8z5crdlus5p5zscpc27v70"><img src="https://cwi-themine.com/badge.svg?pool=solo-bch-sha256d&amp;addr=bitcoincash%3Aqrkyk3usu33mnzl0luxs8z5crdlus5p5zscpc27v70" alt="Live CWI-theMINE BCH mining telemetry" width="600"/></a>
-
-<sub>The pool refreshes this SVG widget every five minutes; GitHub may cache it longer.</sub>
+<p><sub>Live pool telemetry · Click to open the dashboard · Updates may be delayed by image caching.</sub></p>
 
 </div>
-
-</details>
 
 ---
 
