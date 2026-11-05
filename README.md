@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./assets/jj-header.svg" alt="Jiwoong Jung — animated wireframe compute core, AI, systems, and blockchain" width="100%"/>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/jj-header-mobile.svg"/>
+  <img src="./assets/jj-header.svg" alt="Jiwoong Jung. AI. Systems. Blockchain." width="100%"/>
+</picture>
 
 # Hey, I'm JJ 👋
 
@@ -9,12 +12,12 @@
 From operating systems and hardware to AI-powered products.<br/>
 I like understanding the whole stack — and building across it.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=2800&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=50&amp;lines=Building+agentic+AI.%3BEngineering+from+bare+metal+up.%3BExperimenting+with+proof+of+work." alt="Building agentic AI. Engineering from bare metal up. Experimenting with proof of work." width="90%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=2800&amp;pause=1000&amp;color=3ECF8E&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=50&amp;lines=Building+agentic+AI.%3BEngineering+from+bare+metal+up.%3BExperimenting+with+proof+of+work." alt="Building agentic AI. Engineering from bare metal up. Experimenting with proof of work." width="90%"/>
 
 <p>
   <a href="https://www.linkedin.com/in/jiwoong3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@everythingapplejj6723"><img src="https://img.shields.io/badge/YouTube-FF0033?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube"/></a>
-  <a href="https://github.com/everythingapplejj?tab=followers"><img src="https://img.shields.io/github/followers/everythingapplejj?style=for-the-badge&amp;label=Followers&amp;logo=github&amp;color=22d3ee&amp;labelColor=161b22" alt="GitHub followers"/></a>
+  <a href="https://github.com/everythingapplejj?tab=followers"><img src="https://img.shields.io/github/followers/everythingapplejj?style=for-the-badge&amp;label=Followers&amp;logo=github&amp;color=3ecf8e&amp;labelColor=161b22" alt="GitHub followers"/></a>
 </p>
 
 [About](#about) &nbsp; · &nbsp; [Focus](#focus) &nbsp; · &nbsp; [Stack](#stack) &nbsp; · &nbsp; [Activity](#activity) &nbsp; · &nbsp; [Blockchain](#blockchain) &nbsp; · &nbsp; [Mining lab](#mining-lab)
@@ -119,8 +122,8 @@ I like understanding the whole stack — and building across it.
 
 <p><samp>CODE · COMMITS · CONSISTENCY</samp></p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=everythingapplejj&amp;theme=github_dark&amp;title_color=22d3ee&amp;animation=stagger" alt="Public GitHub statistics" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=everythingapplejj&amp;theme=github_dark&amp;title_color=22d3ee&amp;animation=draw" alt="Top languages across public repositories" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=everythingapplejj&amp;theme=github_dark&amp;title_color=3ecf8e&amp;animation=stagger" alt="Public GitHub statistics" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=everythingapplejj&amp;theme=github_dark&amp;title_color=3ecf8e&amp;animation=draw" alt="Top languages across public repositories" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=everythingapplejj&amp;theme=github_dark&amp;timeZone=America%2FChicago&amp;animation=draw" alt="Commit activity by hour in America/Chicago" width="32%"/>
 
 <br/><br/>
@@ -151,7 +154,7 @@ A view of the networks behind the experiments.
 
 <p>
   <a href="https://mempool.space/"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmempool.space%2Fapi%2Fblocks%2Ftip%2Fheight&amp;query=%24&amp;label=BTC+BLOCK&amp;color=f7931a&amp;style=for-the-badge&amp;logo=bitcoin&amp;logoColor=white" alt="Current Bitcoin block height"/></a>
-  <a href="https://mempool.space/"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmempool.space%2Fapi%2Fv1%2Ffees%2Frecommended&amp;query=%24.fastestFee&amp;label=BTC+PRIORITY+FEE&amp;suffix=+sat%2FvB&amp;color=22d3ee&amp;style=for-the-badge" alt="Recommended Bitcoin high-priority transaction fee in sat/vB"/></a>
+  <a href="https://mempool.space/"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmempool.space%2Fapi%2Fv1%2Ffees%2Frecommended&amp;query=%24.fastestFee&amp;label=BTC+PRIORITY+FEE&amp;suffix=+sat%2FvB&amp;color=3ecf8e&amp;style=for-the-badge" alt="Recommended Bitcoin high-priority transaction fee in sat/vB"/></a>
 </p>
 
 <sub>Market data from <a href="https://chainregistry.net/widgets">ChainRegistry</a> · Bitcoin network data from <a href="https://mempool.space/">mempool.space</a></sub>
@@ -165,10 +168,13 @@ A view of the networks behind the experiments.
 <p><b>Bitaxe Gamma · BCH · SHA-256d · Solo mining</b></p>
 
 <a href="https://cwi-themine.com/solo-bch-sha256d/address/bitcoincash:qrkyk3usu33mnzl0luxs8z5crdlus5p5zscpc27v70">
-  <img src="https://cwi-themine.com/badge.svg?pool=solo-bch-sha256d&amp;addr=bitcoincash%3Aqrkyk3usu33mnzl0luxs8z5crdlus5p5zscpc27v70" alt="Live BCH mining telemetry: hashrate, workers, best share, blocks, and awards" width="800"/>
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/mining-telemetry-mobile.svg"/>
+    <img src="./assets/mining-telemetry.svg" alt="BCH solo mining telemetry with the last successful fetch time" width="100%"/>
+  </picture>
 </a>
 
-<p><sub>Live pool telemetry · Click to open the dashboard · Updates may be delayed by image caching.</sub></p>
+<p><sub>Pool telemetry · Scheduled every 15 minutes · The card shows the last successful fetch.<br/>GitHub scheduling and image caching can delay updates. Click to open the current pool dashboard.</sub></p>
 
 </div>
 
@@ -188,6 +194,6 @@ AI research · Product work · Systems engineering · AI security · Blockchain
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=everythingapplejj&amp;label=PROFILE+VIEWS&amp;color=0891b2&amp;style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=everythingapplejj&amp;label=PROFILE+VIEWS&amp;color=3ecf8e&amp;style=flat-square" alt="Profile views"/>
 
 </div>
