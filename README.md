@@ -73,6 +73,8 @@ I build at the intersection of **AI + Systems + Real World Impact**
 [![Tokscale Stats](https://tokscale.ai/api/embed/everythingapplejj/svg?view=3d)](https://tokscale.ai/u/everythingapplejj)
 
 
+[![Bronze Share on CWI-theMINE](https://cwi-themine.com/achievement.svg?pool=solo-bch-sha256d&addr=bitcoincash%3Aqrkyk3usu33mnzl0luxs8z5crdlus5p5zscpc27v70&key=share_t2)](https://cwi-themine.com/solo-bch-sha256d/address/bitcoincash%3Aqrkyk3usu33mnzl0luxs8z5crdlus5p5zscpc27v70/achievements)
+
 
 <!---
 everythingapplejj/everythingapplejj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
