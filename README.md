@@ -67,13 +67,45 @@ I build at the intersection of **AI + Systems + Real World Impact**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=everythingapplejj&theme=dark&hide_border=true)
+<div align="center">
 
+  <h2>Jiwoong Jung</h2>
+  <p>
+    Computer Engineering · AI Systems · Blockchain
+  </p>
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/everythingapplejj/svg?view=3d)](https://tokscale.ai/u/everythingapplejj)
+  <h3>Development Activity</h3>
 
+  <img
+    src="https://streak-stats.demolab.com?user=everythingapplejj&theme=dark&hide_border=true"
+    alt="GitHub Contribution Streak"
+    width="650"
+  />
 
-[![Bronze Share on CWI-theMINE](https://cwi-themine.com/achievement.svg?pool=solo-bch-sha256d&addr=bitcoincash%3Aqrkyk3usu33mnzl0luxs8z5crdlus5p5zscpc27v70&key=share_t2)](https://cwi-themine.com/solo-bch-sha256d/address/bitcoincash%3Aqrkyk3usu33mnzl0luxs8z5crdlus5p5zscpc27v70/achievements)
+  <br/><br/>
+
+  <a href="https://tokscale.ai/u/everythingapplejj">
+    <img
+      src="https://tokscale.ai/api/embed/everythingapplejj/svg?view=3d"
+      alt="Tokscale Coding Statistics"
+      width="750"
+    />
+  </a>
+
+  <h3>Solo Mining Lab</h3>
+
+  <p>Bitaxe Gamma · Bitcoin Cash · SHA-256d</p>
+
+  <a href="https://cwi-themine.com/solo-bch-sha256d/address/bitcoincash%3Aqrkyk3usu33mnzl0luxs8z5crdlus5p5zscpc27v70/achievements">
+    <img
+      src="https://cwi-themine.com/achievement.svg?pool=solo-bch-sha256d&amp;addr=bitcoincash%3Aqrkyk3usu33mnzl0luxs8z5crdlus5p5zscpc27v70&amp;key=share_t2"
+      alt="CWI-theMINE Bronze Share Achievement"
+      width="600"
+    />
+  </a>
+
+</div>
+  
 
 
 <!---
