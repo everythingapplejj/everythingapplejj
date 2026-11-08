@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="340" viewBox="0 0 480 340" role="img" aria-labelledby="title desc">
 <title id="title">BCH solo mining telemetry</title>
-<desc id="desc">Real CWI-theMINE pool data: HASHRATE: 2.650 TH/s, WORKERS: 1, BEST SHARE: 2.558G, BLOCKS: 0, AWARDS: 5/26. Fetched 2026-11-08 19:39 UTC. Scheduled every 15 minutes; scheduling and image caches may delay updates.</desc>
+<desc id="desc">Real CWI-theMINE pool data: HASHRATE: 3.554 TH/s, WORKERS: 1, BEST SHARE: 2.558G, BLOCKS: 0, AWARDS: 5/26. Fetched 2026-11-08 23:13 UTC. Scheduled every 15 minutes; scheduling and image caches may delay updates.</desc>
 <rect x=".5" y=".5" width="479" height="339" rx="12" fill="#1c1c1c" stroke="#343434"/>
 <g font-family="Inter,Arial,sans-serif">
 <text x="28" y="36" fill="#ededed" font-size="20" font-weight="600">BCH solo mining</text>
 <text x="452" y="36" text-anchor="end" fill="#a1a1a1" font-size="13">CWI-theMINE</text>
 <path d="M28 57H452" stroke="#343434"/>
 <text x="28" y="99" fill="#b4b4b4" font-size="14">Hashrate</text>
-<text x="28" y="134" fill="#3ecf8e" font-size="30" font-weight="500">2.650 TH/s</text>
+<text x="28" y="134" fill="#3ecf8e" font-size="30" font-weight="500">3.554 TH/s</text>
 <text x="258" y="99" fill="#b4b4b4" font-size="14">Workers</text>
 <text x="258" y="134" fill="#ededed" font-size="30" font-weight="500">1</text>
 <text x="28" y="184" fill="#b4b4b4" font-size="14">Best share</text>
@@ -18,5 +18,5 @@
 <text x="28" y="304" fill="#ededed" font-size="30" font-weight="500">5/26</text>
 <text x="258" y="269" fill="#b4b4b4" font-size="14">Refresh schedule</text>
 <text x="258" y="300" fill="#ededed" font-size="21">Every 15 min</text>
-<text x="28" y="322" fill="#a1a1a1" font-size="12">Fetched 2026-11-08 19:39 UTC</text>
+<text x="28" y="322" fill="#a1a1a1" font-size="12">Fetched 2026-11-08 23:13 UTC</text>
 </g></svg>
